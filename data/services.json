@@ -1,14 +1,20 @@
 [
     {
-       "src": "./img/user.png",
-       "title": "Ejemplo Curso",
-       "desc": "Descripcion Curso",
-       "cat": "Categoria"
+       "src": "./img/office-suite.png",
+       "title": "Office Suite Solutions",
+       "desc": "Boost efficiency with essential office tools. Integration with Microsoft 365 & Google Workspace.",
+       "cat": "Business Services"
     },
     {
-        "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
+        "src": "./img/website-hosting.png",
+        "title": "Website Hosting",
+        "desc": "Secure and optimized web hosting. Includes domain registration & SEO setup.",
+        "cat": "Business Services"
+     },
+    {
+        "src": "./img/cloud-computing.png",
+        "title": "Cloud Computing",
+        "desc": "Scalable and secure cloud solutions. Data storage, backup, and business continuity.",
+        "cat": "Business Services"
      }
 ]
