@@ -1,26 +1,20 @@
 [
     {
-       "src": "./img/ceo.png",
-       "title": "Alfonso Ramírez",
-       "desc": "CEO - Leads the company’s vision and strategic direction.",
-       "cat": "Team"
+       "src": "./img/word-processing.png",
+       "title": "Word Processing",
+       "desc": "Boost document creation with professional formatting. Training in Microsoft Word & Google Docs.",
+       "cat": "Business Skills"
     },
     {
-        "src": "./img/trainer.png",
-        "title": "Pedro Jiménez",
-        "desc": "Business Trainer - Provides expertise in business education.",
-        "cat": "Team"
-     },
+        "src": "./img/spreadsheets.png",
+        "title": "Spreadsheets",
+        "desc": "Enhance data organization and analysis. Hands-on training with Excel & Google Sheets.",
+        "cat": "Business Skills"
+    },
     {
-        "src": "./img/it-specialist.png",
-        "title": "Marcos Soria",
-        "desc": "IT Specialist - Manages technology and infrastructure.",
-        "cat": "Team"
-     },
-    {
-        "src": "./img/support.png",
-        "title": "Carmen Pastor",
-        "desc": "Customer Support - Assists clients and resolves inquiries.",
-        "cat": "Team"
-     }
+        "src": "./img/database.png",
+        "title": "Database Management",
+        "desc": "Store, retrieve, and manage business data efficiently. Learn SQL basics & Microsoft Access.",
+        "cat": "Business Skills"
+    }
 ]
