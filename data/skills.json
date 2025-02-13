@@ -1,14 +1,26 @@
 [
     {
-       "src": "./img/user.png",
-       "title": "Ejemplo1 Curso",
-       "desc": "Descripcion1 Curso",
-       "cat": "Categoria"
+       "src": "./img/ceo.png",
+       "title": "Alfonso Ramírez",
+       "desc": "CEO - Leads the company’s vision and strategic direction.",
+       "cat": "Team"
     },
     {
-        "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
+        "src": "./img/trainer.png",
+        "title": "Pedro Jiménez",
+        "desc": "Business Trainer - Provides expertise in business education.",
+        "cat": "Team"
+     },
+    {
+        "src": "./img/it-specialist.png",
+        "title": "Marcos Soria",
+        "desc": "IT Specialist - Manages technology and infrastructure.",
+        "cat": "Team"
+     },
+    {
+        "src": "./img/support.png",
+        "title": "Carmen Pastor",
+        "desc": "Customer Support - Assists clients and resolves inquiries.",
+        "cat": "Team"
      }
 ]
